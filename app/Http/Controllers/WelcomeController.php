@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class WelcomeController extends Controller
 {
     public function articles() {
-        return 'Halaman Artikel dengan iD';
+        return 'Halaman Artikel dengan ID'; 
     }
 }
